@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pacientes>
+  <paciente>
+    <id>9</id>
+    <nombre>bairon</nombre>
+    <apellido>Ardila</apellido>
+    <documento>1736484</documento>
+    <edad>22</edad>
+    <sexo>M</sexo>
+    <telefono>172788</telefono>
+    <direccion>aeropuerto</direccion>
+    <fecha_registro>2025-11-19</fecha_registro>
+  </paciente>
+  <paciente>
+    <id>10</id>
+    <nombre>johanan</nombre>
+    <apellido>cuadros</apellido>
+    <documento>1892783</documento>
+    <edad>23</edad>
+    <sexo>F</sexo>
+    <telefono/>
+    <direccion/>
+    <fecha_registro>2025-11-19</fecha_registro>
+  </paciente>
+  <paciente>
+    <id>11</id>
+    <nombre>parada</nombre>
+    <apellido>parada</apellido>
+    <documento>1005053883</documento>
+    <edad>43</edad>
+    <sexo>F</sexo>
+    <telefono/>
+    <direccion/>
+    <fecha_registro>2025-11-19</fecha_registro>
+  </paciente>
+  <paciente>
+    <id>12</id>
+    <nombre>bairon</nombre>
+    <apellido>ardila</apellido>
+    <documento>1091356068</documento>
+    <edad>20</edad>
+    <sexo>M</sexo>
+    <telefono>3204413320</telefono>
+    <direccion>Calle 12 av 3ra</direccion>
+    <fecha_registro>2025-11-23</fecha_registro>
+  </paciente>
+</pacientes>
